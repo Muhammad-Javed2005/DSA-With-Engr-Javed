@@ -1,4 +1,4 @@
-# 🚀 Data Structures & Algorithms in C++
+#  Data Structures & Algorithms in C++
 
 ### Vector Operations, Sorting, Two Pointer & Sliding Window Techniques
 
@@ -13,7 +13,7 @@ counting, two pointers, and sliding window.
 
 ------------------------------------------------------------------------
 
-# 📂 Project Structure
+#  Project Structure
 
     .
     ├── 01_vector_functions.cpp      # Basic vector operations
@@ -27,7 +27,7 @@ counting, two pointers, and sliding window.
 
 ------------------------------------------------------------------------
 
-# 📘 Topics Covered
+#  Topics Covered
 
 ## 1️⃣ Vector Functions
 
@@ -186,7 +186,7 @@ More algorithms will be added:
 
 ------------------------------------------------------------------------
 
-# 👨‍💻 Author
+#  Author
 
 **Muhammad Javed**
 
