@@ -132,7 +132,7 @@ This technique greatly improves efficiency in many problems.
 
 ------------------------------------------------------------------------
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 -   C++
 -   STL (Standard Template Library)
@@ -141,7 +141,7 @@ This technique greatly improves efficiency in many problems.
 
 ------------------------------------------------------------------------
 
-# ▶️ How to Run the Code
+#  How to Run the Code
 
 ### Clone the repository
 
@@ -161,7 +161,7 @@ This technique greatly improves efficiency in many problems.
 
 ------------------------------------------------------------------------
 
-# 🎯 Learning Goals
+#  Learning Goals
 
 This repository helps in:
 
