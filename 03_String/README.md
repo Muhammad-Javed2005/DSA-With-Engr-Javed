@@ -26,7 +26,7 @@ Competitive Programming  - University Exams
 
 ------------------------------------------------------------------------
 
-## 📌 Detailed Topics Covered
+##  Detailed Topics Covered
 
 ### 🔹 1. String Functions
 
