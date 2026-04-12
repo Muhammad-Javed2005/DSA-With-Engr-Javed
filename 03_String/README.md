@@ -11,7 +11,7 @@ Competitive Programming  - University Exams
 
 ------------------------------------------------------------------------
 
-## 📂 Folder Structure
+## Folder Structure
 
     03_String/
     │
