@@ -103,7 +103,7 @@ Compress string using character count.
 
 ------------------------------------------------------------------------
 
-## ⚙️ How to Run (Step-by-Step)
+##  How to Run (Step-by-Step)
 
 ### 1️⃣ Clone Repository
 
