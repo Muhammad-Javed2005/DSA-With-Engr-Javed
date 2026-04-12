@@ -1,13 +1,13 @@
 
-# 📘 String Algorithms - DSA With Engr Javed
+#  String Algorithms - DSA With Engr Javed
 
 Welcome to the **String Algorithms** section of the
-**DSA-With-Engr-Javed** repository 🚀.\
+**DSA-With-Engr-Javed** repository .\
 This folder is specially designed to help you master **string-based
 problems** in Data Structures & Algorithms using **C++**.
 
-These problems are commonly asked in: - Coding Interviews 💼 -
-Competitive Programming 🏆 - University Exams 🎓
+These problems are commonly asked in: - Coding Interviews -
+Competitive Programming  - University Exams 
 
 ------------------------------------------------------------------------
 
