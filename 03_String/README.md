@@ -131,7 +131,7 @@ g++ 01_string_functions.cpp -o output
 
 ------------------------------------------------------------------------
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 After completing this folder, you will be able to:
 
