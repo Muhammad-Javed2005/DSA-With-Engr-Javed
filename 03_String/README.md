@@ -142,7 +142,7 @@ After completing this folder, you will be able to:
 
 ------------------------------------------------------------------------
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 -   Add advanced algorithms:
     -   KMP Algorithm
@@ -153,7 +153,7 @@ After completing this folder, you will be able to:
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Author
+##  Author
 
 **Muhammad Javed**\
 💼 Software Engineering Student \| DSA Learner
