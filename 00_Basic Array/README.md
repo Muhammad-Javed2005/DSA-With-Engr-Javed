@@ -71,7 +71,7 @@ Basic-Array/
 
 ---
 
-# 📑 Programs Included
+#  Programs Included
 
 ## 1️⃣ Array Creation and Input
 
@@ -486,7 +486,7 @@ void update(int &x)
 
 ---
 
-# 📊 Complexity Summary
+#  Complexity Summary
 
 | Program | Time Complexity |
 |----------|----------------|
