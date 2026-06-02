@@ -36,7 +36,7 @@ After completing this repository, you will be able to:
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 | Technology | Purpose |
 |------------|----------|
@@ -47,7 +47,7 @@ After completing this repository, you will be able to:
 
 ---
 
-# 📂 Repository Structure
+#  Repository Structure
 
 ```bash
 Basic-Array/
