@@ -524,7 +524,7 @@ void update(int &x)
 
 ---
 
-# 🚀 How to Run
+#  How to Run
 
 ## Clone Repository
 
@@ -558,7 +558,7 @@ g++ linear_search.cpp -o search
 
 ---
 
-# 🎓 Who Is This Repository For?
+#  Who Is This Repository For?
 
 ✅ DSA Beginners
 
@@ -574,7 +574,7 @@ g++ linear_search.cpp -o search
 
 ---
 
-# 🌟 Future Improvements
+#  Future Improvements
 
 - Binary Search
 - Prefix Sum Problems
