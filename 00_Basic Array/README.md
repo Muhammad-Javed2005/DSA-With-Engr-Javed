@@ -507,7 +507,7 @@ void update(int &x)
 
 ---
 
-# 🧠 Important DSA Concepts Covered
+# Important DSA Concepts Covered
 
 - Arrays
 - Traversal
@@ -587,7 +587,7 @@ g++ linear_search.cpp -o search
 
 ---
 
-# 🤝 Contributing
+#  Contributing
 
 Contributions are welcome.
 
@@ -601,13 +601,13 @@ If you would like to improve the repository:
 
 ---
 
-# 📜 License
+#  License
 
 This project is open-source and available under the MIT License.
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Muhammad Javed**
 
