@@ -1,10 +1,10 @@
-# 📚 Basic Array in C++
+#  Basic Array in C++
 
 A beginner-friendly C++ repository containing fundamental Array concepts, algorithms, and problem-solving examples. This repository is designed for students and beginners who want to build a strong foundation in Data Structures and Algorithms (DSA) using Arrays.
 
 ---
 
-# 📖 Overview
+#  Overview
 
 Arrays are one of the most important data structures in programming. They serve as the foundation for understanding advanced data structures and algorithms. This repository contains multiple C++ programs that demonstrate common array operations, searching techniques, subarray problems, and optimization algorithms.
 
@@ -18,7 +18,7 @@ The goal of this repository is to provide:
 
 ---
 
-# 🎯 Learning Objectives
+#  Learning Objectives
 
 After completing this repository, you will be able to:
 
