@@ -75,7 +75,7 @@ A collection of C++ programs demonstrating essential STL Vector operations and c
 
 ---
 
-## 🛠 Requirements
+##  Requirements
 
 * C++ Compiler (GCC/G++)
 * Visual Studio Code or any C++ IDE
@@ -98,7 +98,7 @@ Run:
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 By completing these programs, you will learn:
 
@@ -113,7 +113,7 @@ By completing these programs, you will learn:
 
 ---
 
-## 📈 Applications
+## Applications
 
 These concepts are widely used in:
 
@@ -125,19 +125,19 @@ These concepts are widely used in:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, improvements, and suggestions are welcome. Feel free to fork the repository and submit a pull request.
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you find this repository helpful, consider giving it a star ⭐.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Muhammad Javed**
 
