@@ -159,7 +159,7 @@ After completing this folder, you will be able to:
 **Muhammad Javed**\
  Software Engineering Student \| DSA Learner
 
-🔗 LinkedIn:\
+ LinkedIn:\
 https://www.linkedin.com/in/muhammad-javed-24b262369/
 
 ------------------------------------------------------------------------
