@@ -1,5 +1,6 @@
+#  Data Structures & Algorithms in C++
 
-#  String Algorithms - DSA With Engr Javed
+#  String Algorithms 
 
 Welcome to the **String Algorithms** section of the
 **DSA-With-Engr-Javed** repository .\
