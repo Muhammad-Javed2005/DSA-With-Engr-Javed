@@ -157,7 +157,7 @@ After completing this folder, you will be able to:
 ##  Author
 
 **Muhammad Javed**\
-💼 Software Engineering Student \| DSA Learner
+ Software Engineering Student \| DSA Learner
 
 🔗 LinkedIn:\
 https://www.linkedin.com/in/muhammad-javed-24b262369/
