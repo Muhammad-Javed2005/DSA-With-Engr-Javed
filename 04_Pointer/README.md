@@ -1,3 +1,5 @@
+#  Data Structures & Algorithms in C++
+
 #  Pointers and Memory Management in C++
 
 Welcome to the **Pointers and Memory Management** module of the **DSA With Engr Javed** repository. This section provides a complete introduction to pointers, pointer arithmetic, arrays with pointers, functions using pointers, dynamic memory allocation, and double pointers in C++.
