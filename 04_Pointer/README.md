@@ -547,7 +547,7 @@ Pointers are heavily used in:
 
 ---
 
-# ⚠ Common Mistakes
+#  Common Mistakes
 
 ## 1. Uninitialized Pointer
 
