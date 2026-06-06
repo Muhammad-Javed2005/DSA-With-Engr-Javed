@@ -498,7 +498,7 @@ Output
 
 ---
 
-# 📊 Pointer Hierarchy
+#  Pointer Hierarchy
 
 ```text
 Variable
@@ -515,7 +515,7 @@ Triple Pointer (***)
 
 ---
 
-# 🔥 Real-World Applications
+#  Real-World Applications
 
 Pointers are heavily used in:
 
@@ -551,7 +551,7 @@ Pointers are heavily used in:
 
 ## 1. Uninitialized Pointer
 
-❌ Bad
+ Bad
 
 ```cpp
 int* ptr;
@@ -642,7 +642,7 @@ These topics rely heavily on pointer concepts and memory management.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Muhammad Javed**
 
