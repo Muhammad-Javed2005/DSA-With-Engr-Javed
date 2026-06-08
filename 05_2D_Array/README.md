@@ -392,7 +392,7 @@ O(1)
 
 ---
 
-# 🧠 Key Concepts Covered
+#  Key Concepts Covered
 
 This repository covers:
 
@@ -409,7 +409,7 @@ This repository covers:
 
 ---
 
-# 🚀 How to Run
+#  How to Run
 
 ### Clone Repository
 
