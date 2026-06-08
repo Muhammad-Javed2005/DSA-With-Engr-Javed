@@ -469,7 +469,7 @@ This repository is ideal for:
 
 ---
 
-# 🔥 Future Improvements
+#  Future Improvements
 
 Possible future additions:
 
@@ -507,7 +507,7 @@ If you found this repository useful:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Muhammad Javed**
 
@@ -515,7 +515,7 @@ GitHub: https://github.com/Muhammad-Javed2005
 
 ---
 
-## 📜 License
+##  License
 
 This project is open-source and available under the MIT License.
 
