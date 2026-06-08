@@ -53,7 +53,7 @@ After completing these programs, you will understand:
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 - Language: C++
 - Compiler: GCC / G++
@@ -62,7 +62,7 @@ After completing these programs, you will understand:
 
 ---
 
-# 📄 Program Details
+#  Program Details
 
 ---
 
