@@ -1,13 +1,13 @@
 #  Data Structures & Algorithms in C++
 
 
-# 📘 2D Array in C++
+#  2D Array in C++
 
 A comprehensive collection of **2D Array (Matrix) programs in C++** covering fundamental operations, searching, matrix transformation, rotation, and traversal techniques. This repository is designed for students, beginners, and coding interview preparation.
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This repository demonstrates the implementation of commonly used **2D Array algorithms** in C++. Each program focuses on a specific matrix operation and helps strengthen understanding of multidimensional arrays and matrix manipulation techniques.
 
