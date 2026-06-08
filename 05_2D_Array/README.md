@@ -22,7 +22,7 @@ The project includes:
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 After completing these programs, you will understand:
 
@@ -37,7 +37,7 @@ After completing these programs, you will understand:
 
 ---
 
-# 📂 Repository Structure
+#  Repository Structure
 
 ```text
 2D-array/
