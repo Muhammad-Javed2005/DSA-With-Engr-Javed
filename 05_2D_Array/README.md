@@ -443,7 +443,7 @@ g++ 04_rotate_90.cpp -o rotate
 
 ---
 
-# 📚 Prerequisites
+#  Prerequisites
 
 Before using this repository, you should know:
 
@@ -456,7 +456,7 @@ Before using this repository, you should know:
 
 ---
 
-# 🎓 Educational Value
+#  Educational Value
 
 This repository is ideal for:
 
