@@ -7,7 +7,7 @@ A comprehensive collection of recursion-based problems implemented in **C++**. T
 
 ---
 
-## 📚 About the Repository
+##  About the Repository
 
 Recursion is a programming technique where a function calls itself to solve smaller instances of the same problem. It is one of the most important concepts in Data Structures and Algorithms and is widely used in problem-solving, backtracking, divide-and-conquer algorithms, and tree traversals.
 
@@ -15,7 +15,7 @@ This repository contains beginner to intermediate-level recursive problems imple
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 By exploring this repository, you will learn:
 
@@ -30,7 +30,7 @@ By exploring this repository, you will learn:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |------------|----------|
@@ -41,7 +41,7 @@ By exploring this repository, you will learn:
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 Recursion/
