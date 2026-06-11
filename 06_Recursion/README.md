@@ -61,7 +61,7 @@ Recursion/
 
 ---
 
-# 📖 Problems Included
+#  Problems Included
 
 ---
 
@@ -339,7 +339,7 @@ O(n!)
 
 ---
 
-# 🧠 Recursion Workflow
+#  Recursion Workflow
 
 ```text
 Problem
@@ -359,7 +359,7 @@ Solution
 
 ---
 
-# ⚡ Time Complexity Summary
+#  Time Complexity Summary
 
 | Problem | Complexity |
 |----------|------------|
