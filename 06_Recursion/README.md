@@ -1,4 +1,7 @@
-# 🔁 Recursion in C++
+#  Data Structures & Algorithms in C++
+
+
+#  Recursion in C++
 
 A comprehensive collection of recursion-based problems implemented in **C++**. This repository is designed to help students and programmers understand the fundamentals of recursion through practical examples and coding exercises.
 
