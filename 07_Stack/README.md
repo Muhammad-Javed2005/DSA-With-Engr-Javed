@@ -78,7 +78,7 @@ Stacks are widely used in:
 
 ---
 
-# ⚙️ Stack Operations
+#  Stack Operations
 
 ### Push
 
@@ -130,7 +130,7 @@ stack.size();
 
 ---
 
-# 📂 Repository Structure
+#  Repository Structure
 
 ```text
 07_Stack/
@@ -146,7 +146,7 @@ stack.size();
 
 ---
 
-# 📚 Implemented Programs
+#  Implemented Programs
 
 ---
 
