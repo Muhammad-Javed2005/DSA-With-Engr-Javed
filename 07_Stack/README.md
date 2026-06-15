@@ -435,7 +435,7 @@ O(n)
 
 ---
 
-# 📊 Complexity Summary
+#  Complexity Summary
 
 | Problem | Time Complexity | Space Complexity |
 |----------|----------------|------------------|
@@ -448,7 +448,7 @@ O(n)
 
 ---
 
-# 🚀 How to Run
+#  How to Run
 
 ### Clone Repository
 
@@ -504,7 +504,7 @@ This sequence helps build concepts gradually from basic to advanced.
 
 ---
 
-# 🔥 Interview Questions Related to Stack
+#  Interview Questions Related to Stack
 
 - Implement Stack using Array
 - Implement Stack using Linked List
@@ -520,7 +520,7 @@ This sequence helps build concepts gradually from basic to advanced.
 
 ---
 
-# 📖 Key Takeaways
+#  Key Takeaways
 
 ✅ Stack follows LIFO Principle
 
