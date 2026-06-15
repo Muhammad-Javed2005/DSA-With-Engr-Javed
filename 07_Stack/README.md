@@ -17,7 +17,7 @@ A complete collection of Stack Data Structure implementations and problem-solvin
 
 ---
 
-# 📖 Overview
+#  Overview
 
 This repository contains fundamental and practical implementations of the **Stack Data Structure** using C++. It covers stack creation, STL stack usage, expression handling, string manipulation, and common interview problems.
 
@@ -33,7 +33,7 @@ The purpose of this repository is to help learners understand:
 
 ---
 
-# 🧠 What is a Stack?
+#  What is a Stack?
 
 A **Stack** is a linear data structure that follows the **LIFO (Last In First Out)** principle.
 
@@ -61,7 +61,7 @@ Removed: 30
 
 ---
 
-# 🎯 Applications of Stack
+#  Applications of Stack
 
 Stacks are widely used in:
 
