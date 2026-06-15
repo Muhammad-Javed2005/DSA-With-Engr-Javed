@@ -1,11 +1,11 @@
 #  Data Structures & Algorithms in C++
 
 
-# 📚 Stack Data Structure in C++
+#  Stack Data Structure in C++
 
 <div align="center">
 
-# 🗂️ 07 - Stack
+#  07 - Stack
 
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus)
 ![DSA](https://img.shields.io/badge/Data%20Structures-Stack-success?style=for-the-badge)
