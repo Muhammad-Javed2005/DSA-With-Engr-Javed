@@ -506,7 +506,7 @@ This sequence helps build concepts gradually from basic to advanced.
 
 #  Interview Questions Related to Stack
 
-- Implement Stack using Array
+- Implement Stack using Array.
 - Implement Stack using Linked List
 - Valid Parentheses
 - Next Greater Element
@@ -536,7 +536,7 @@ This sequence helps build concepts gradually from basic to advanced.
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 ### Muhammad Javed
 
