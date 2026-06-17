@@ -1,4 +1,7 @@
-# Queue Data Structure (DSA with C++)
+#  Data Structures & Algorithms in C++
+
+
+# Queue Data Structure
 
 This folder contains the implementation and practice problems related to the Queue Data Structure in C++.
 
