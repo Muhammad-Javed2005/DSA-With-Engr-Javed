@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🚀 08 - Queue
+#  08 - Queue
 
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge\&logo=cplusplus)
 ![DSA](https://img.shields.io/badge/Data%20Structures-Queue-success?style=for-the-badge)
@@ -16,7 +16,7 @@ A complete collection of Queue Data Structure implementations and problem-solvin
 
 ---
 
-# 📖 Overview
+#  Overview
 
 This repository contains fundamental and practical implementations of the **Queue Data Structure** using C++. It covers queue creation, STL queue usage, circular queues, sliding window techniques, stream processing, and common interview problems.
 
@@ -33,7 +33,7 @@ The purpose of this repository is to help learners understand:
 
 ---
 
-# 📌 What is a Queue?
+#  What is a Queue?
 
 A **Queue** is a linear data structure that follows the **FIFO (First In First Out)** principle.
 
