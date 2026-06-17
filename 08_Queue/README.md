@@ -440,7 +440,7 @@ GitHub: https://github.com/Muhammad-Javed2005
 
 <div align="center">
 
-### ⭐ If you found this repository helpful, don't forget to star it!
+### ⭐  If you found this repository helpful, don't forget to star it!
 
 Happy Coding 🚀
 
