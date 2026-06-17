@@ -143,7 +143,7 @@ q.size();
 
 ---
 
-# 🧩 Implemented Programs
+#  Implemented Programs
 
 ## 1️⃣ Queue Using Array
 
@@ -367,7 +367,7 @@ O(n)
 
 ---
 
-# 📊 Complexity Summary
+#  Complexity Summary
 
 | Problem                       | Time Complexity | Space Complexity |
 | ----------------------------- | --------------- | ---------------- |
@@ -379,7 +379,7 @@ O(n)
 
 ---
 
-# 🎓 Learning Path
+#  Learning Path
 
 ```text
 1. Queue Using Array
@@ -395,7 +395,7 @@ O(n)
 
 ---
 
-# 💼 Interview Questions Related to Queue
+#  Interview Questions Related to Queue
 
 * Implement Queue using Array
 * Implement Queue using Linked List
@@ -410,7 +410,7 @@ O(n)
 
 ---
 
-# 🔑 Key Takeaways
+#  Key Takeaways
 
 ✅ Queue follows FIFO Principle
 
@@ -426,7 +426,7 @@ O(n)
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 ### Muhammad Javed
 
