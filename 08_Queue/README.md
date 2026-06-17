@@ -59,7 +59,7 @@ Removed: 10
 
 ---
 
-# 🌍 Applications of Queue
+#  Applications of Queue
 
 Queues are widely used in:
 
@@ -76,7 +76,7 @@ Queues are widely used in:
 
 ---
 
-# ⚙️ Queue Operations
+#  Queue Operations
 
 ### Enqueue
 
@@ -128,7 +128,7 @@ q.size();
 
 ---
 
-# 📂 Repository Structure
+#  Repository Structure
 
 ```text
 08_Queue/
