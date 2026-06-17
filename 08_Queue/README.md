@@ -7,7 +7,7 @@ This folder contains the implementation and practice problems related to the Que
 
 ---
 
-# 📚 Topics Covered
+#  Topics Covered
 
 - Introduction to Queue
 - Queue using Array
