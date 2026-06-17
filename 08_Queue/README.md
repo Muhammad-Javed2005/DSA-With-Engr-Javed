@@ -18,7 +18,7 @@ This folder contains the implementation and practice problems related to the Que
 
 ---
 
-# 📂 Files Included
+#  Files Included
 
 | File Name | Description |
 |------------|-------------|
