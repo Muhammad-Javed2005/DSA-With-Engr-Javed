@@ -201,7 +201,7 @@ Intersection:
 
 ---
 
-## 🔍 Comparison of Set Types
+##  Comparison of Set Types
 
 | Feature | set | multiset | unordered_set |
 |----------|------|-----------|----------------|
@@ -213,7 +213,7 @@ Intersection:
 
 ---
 
-## 🚀 How to Compile and Run
+##  How to Compile and Run
 
 ### Compile
 
@@ -241,7 +241,7 @@ set_functions.exe
 
 ---
 
-## 🎯 Applications of Sets
+##  Applications of Sets
 
 Sets are widely used in:
 
@@ -257,7 +257,7 @@ Sets are widely used in:
 
 ---
 
-## 📖 STL Containers Related to Sets
+##  STL Containers Related to Sets
 
 - `set`
 - `multiset`
@@ -268,7 +268,7 @@ Understanding these containers helps in choosing the right data structure accord
 
 ---
 
-## 🏆 Key Takeaways
+##  Key Takeaways
 
 ✔ Sets store unique elements automatically.
 
@@ -291,4 +291,4 @@ Understanding these containers helps in choosing the right data structure accord
 **Concept:** Set Data Structure (STL)
 
 ---
-Happy Coding 🚀
+Happy Coding ❤️
