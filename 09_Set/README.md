@@ -5,7 +5,7 @@
 
 This folder contains practical implementations and examples of the **Set Data Structure** using the C++ Standard Template Library (STL). The programs demonstrate how sets work, how duplicate values are handled, and how common mathematical set operations such as union and intersection can be performed efficiently.
 
-## 📚 Learning Objectives
+##  Learning Objectives
 
 After completing these examples, you will be able to:
 
@@ -20,7 +20,7 @@ After completing these examples, you will be able to:
 
 ---
 
-## 📁 Files Included
+##  Files Included
 
 ### 1️⃣ 01_set_functions.cpp
 **Topic:** Basic Set Functions
