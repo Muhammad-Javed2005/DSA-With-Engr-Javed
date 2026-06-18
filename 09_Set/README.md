@@ -1,6 +1,5 @@
 #  Data Structures & Algorithms in C++
 
-
 # Set 
 
 This folder contains practical implementations and examples of the **Set Data Structure** using the C++ Standard Template Library (STL). The programs demonstrate how sets work, how duplicate values are handled, and how common mathematical set operations such as union and intersection can be performed efficiently.
