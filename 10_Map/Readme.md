@@ -1,3 +1,6 @@
+#  Data Structures & Algorithms in C++
+
+
 # Map Data Structure in C++ (STL)
 
 This folder contains practical implementations and real-world applications of the **Map Data Structure** using the C++ Standard Template Library (STL). The examples cover ordered maps, multimaps, unordered maps, frequency counting techniques, and popular interview problems solved using maps.
