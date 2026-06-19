@@ -323,7 +323,7 @@ O(n log n)
 
 ---
 
-# ⚡ Ordered Map vs Unordered Map
+#  Ordered Map vs Unordered Map
 
 ## Ordered Map
 
@@ -353,7 +353,7 @@ O(n log n)
 
 ---
 
-# 🚀 How to Compile and Run
+#  How to Compile and Run
 
 ## Compile
 
