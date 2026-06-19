@@ -381,7 +381,7 @@ map_functions.exe
 
 ---
 
-# 🎯 Real-World Applications of Maps
+#  Real-World Applications of Maps
 
 Maps are widely used in:
 
@@ -399,7 +399,7 @@ Maps are widely used in:
 
 ---
 
-# 📖 STL Containers Related to Maps
+#  STL Containers Related to Maps
 
 - `map`
 - `multimap`
@@ -410,7 +410,7 @@ Understanding these containers helps developers choose the most efficient data s
 
 ---
 
-# 🏆 Key Takeaways
+#  Key Takeaways
 
 ✔ Maps store data in key-value pairs.
 
@@ -430,7 +430,7 @@ Understanding these containers helps developers choose the most efficient data s
 
 ---
 
-## 📂 Folder Information
+##  Folder Information
 
 **Folder Name:** 10_Map
 
