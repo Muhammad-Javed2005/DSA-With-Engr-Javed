@@ -310,7 +310,7 @@ O(n log n)
 
 ---
 
-# 🔍 Comparison of Map Types
+#  Comparison of Map Types
 
 | Feature | map | multimap | unordered_map |
 |----------|------|-----------|---------------|
