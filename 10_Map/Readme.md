@@ -9,7 +9,7 @@ Maps are one of the most important associative containers in C++ and are widely 
 
 ---
 
-# 📚 Learning Objectives
+#  Learning Objectives
 
 After completing these examples, you will be able to:
 
@@ -24,7 +24,7 @@ After completing these examples, you will be able to:
 
 ---
 
-# 📁 Files Included
+#  Files Included
 
 ## 1️⃣ 01_map_functions.cpp
 
