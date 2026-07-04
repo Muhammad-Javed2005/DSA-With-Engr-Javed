@@ -1,4 +1,4 @@
-# 🔗 Linked List in C++
+#  Linked List in C++
 
 A complete collection of **Singly Linked List** programs written in **C++**. This repository contains the most common linked list operations that are frequently taught in **Data Structures & Algorithms (DSA)** courses and asked in coding interviews.
 
