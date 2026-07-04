@@ -77,7 +77,7 @@ Linked-List/
 
 ---
 
-# 🧠 Linked List Operations
+#  Linked List Operations
 
 ## 1️⃣ Create Node
 
