@@ -421,7 +421,7 @@ By completing this repository, you will learn:
 
 ---
 
-# 🛠 Prerequisites
+#  Prerequisites
 
 - Basic C++
 - Functions
@@ -432,7 +432,7 @@ By completing this repository, you will learn:
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 Some additional linked list problems that can be added in the future:
 
