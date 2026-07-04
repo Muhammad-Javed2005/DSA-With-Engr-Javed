@@ -55,7 +55,7 @@ This repository covers the fundamental operations of a Singly Linked List using 
 
 ---
 
-# 📂 Repository Structure
+#  Repository Structure
 
 ```
 Linked-List/
