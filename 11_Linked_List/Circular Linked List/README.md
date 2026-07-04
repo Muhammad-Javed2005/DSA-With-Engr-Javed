@@ -384,7 +384,7 @@ reverse.exe
 
 ---
 
-# 💾 Space Complexity Summary
+#  Space Complexity Summary
 
 | Operation | Space |
 |-----------|-------|
@@ -403,7 +403,7 @@ reverse.exe
 
 ---
 
-# 🎯 Learning Objectives
+#  Learning Objectives
 
 By completing this repository, you will learn:
 
