@@ -37,7 +37,7 @@ This repository covers the fundamental operations of a Singly Linked List using 
 
 ---
 
-# ✨ Features
+#  Features
 
 ✔ Clean C++ Code
 
