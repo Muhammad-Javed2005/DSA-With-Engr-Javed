@@ -6,7 +6,7 @@ Each operation is implemented in a separate file with simple, clean, and easy-to
 
 ---
 
-# 📚 Table of Contents
+#  Table of Contents
 
 - Introduction
 - Features
