@@ -337,7 +337,7 @@ O(1)
 
 ---
 
-# ⚙️ How to Compile
+#  How to Compile
 
 Using **g++**
 
