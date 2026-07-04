@@ -468,7 +468,7 @@ If you'd like to improve the code or add more linked list algorithms:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Muhammad Javed**
 
@@ -493,13 +493,13 @@ If you found this repository helpful:
 
 ⭐ Star the repository
 
-🍴 Fork it
+ Fork it
 
-📢 Share it with others
+ Share it with others
 
 ---
 
-# 📄 License
+#  License
 
 This project is licensed under the **MIT License**.
 
