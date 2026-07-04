@@ -365,7 +365,7 @@ reverse.exe
 
 ---
 
-# ⏱ Time Complexity Summary
+#  Time Complexity Summary
 
 | Operation | Complexity |
 |-----------|------------|
