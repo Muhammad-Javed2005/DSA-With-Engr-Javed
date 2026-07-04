@@ -24,7 +24,7 @@ Each operation is implemented in a separate file with simple, clean, and easy-to
 
 ---
 
-# 📖 Introduction
+#  Introduction
 
 A **Linked List** is a linear data structure where each element (called a node) contains:
 
