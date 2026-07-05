@@ -1,114 +1,248 @@
-# Doubly Linked List in C++
 
-## 📘 Overview
-This repository contains step-by-step implementations of **Doubly Linked List** operations in **C++**. Each file demonstrates a single operation, making it suitable for DSA practice, university coursework, coding interviews, and beginners.
+# Data Structures & Algorithms in C++
 
-## 📂 Folder Structure
+# Doubly Linked List
+
+A complete collection of **Doubly Linked List** programs written in **C++**. This repository contains fundamental and interview-oriented operations implemented separately for easy learning.
+
+---
+
+# Table of Contents
+
+- Introduction
+- Features
+- Repository Structure
+- What is a Doubly Linked List?
+- Advantages
+- Disadvantages
+- Operations
+- How to Compile
+- Time Complexity
+- Space Complexity
+- Applications
+- Learning Objectives
+- Prerequisites
+- Future Improvements
+- Contributing
+- Author
+- License
+
+---
+
+# Introduction
+
+A **Doubly Linked List (DLL)** is a linear data structure where each node contains three parts:
+
+- Previous Pointer (`prev`)
+- Data
+- Next Pointer (`next`)
+
+Unlike a Singly Linked List, a DLL allows traversal in both forward and backward directions.
+
+---
+
+# Features
+
+- Clean C++ implementations
+- Beginner friendly
+- Separate file for every operation
+- Interview preparation
+- Well organized
+- Easy to understand
+
+---
+
+# Repository Structure
 
 ```text
-11_Linked_List/
-└── Doubly Linked list/
-    ├── 01_create_node.cpp
-    ├── 02_insert_head.cpp
-    ├── 03_insert_end.cpp
-    ├── 04_insert_position.cpp
-    ├── 05_insert_after_value.cpp
-    ├── 06_delete_head.cpp
-    ├── 07_delete_end.cpp
-    ├── 08_delete_position.cpp
-    ├── 09_delete_value.cpp
-    ├── 10_reverse.cpp
-    ├── 11_find_middle.cpp
-    └── 12_detect_cycle.cpp
+Doubly Linked List/
+├── 01_create_node.cpp
+├── 02_insert_head.cpp
+├── 03_insert_end.cpp
+├── 04_insert_position.cpp
+├── 05_insert_after_value.cpp
+├── 06_delete_head.cpp
+├── 07_delete_end.cpp
+├── 08_delete_position.cpp
+├── 09_delete_value.cpp
+├── 10_reverse.cpp
+├── 11_find_middle.cpp
+└── 12_detect_cycle.cpp
 ```
 
-## ✨ Features
+# Advantages
+- Bidirectional traversal
+- Easy insertion/deletion
+- Better navigation
 
-- Node creation
-- Insert at head
-- Insert at end
-- Insert at any position
-- Insert after a specific value
-- Delete head node
-- Delete last node
-- Delete at position
-- Delete by value
-- Reverse doubly linked list
-- Find middle node
-- Detect cycle (Floyd's algorithm)
+# Disadvantages
+- Extra memory for prev pointer
+- More pointer updates
 
-## 📖 File Description
+# Operations
 
-| File | Description |
-|------|-------------|
-|01_create_node.cpp|Creates a new node.|
-|02_insert_head.cpp|Insert node at beginning.|
-|03_insert_end.cpp|Insert node at end.|
-|04_insert_position.cpp|Insert at a given position.|
-|05_insert_after_value.cpp|Insert after target value.|
-|06_delete_head.cpp|Delete first node.|
-|07_delete_end.cpp|Delete last node.|
-|08_delete_position.cpp|Delete at index.|
-|09_delete_value.cpp|Delete by value.|
-|10_reverse.cpp|Reverse the list.|
-|11_find_middle.cpp|Find middle node using slow/fast pointers.|
-|12_detect_cycle.cpp|Detect loop using Floyd's Cycle Detection.|
+## 1. Create Node
+File: `01_create_node.cpp`
 
-## 🧠 Concepts Covered
+Creates a new node and initializes `prev` and `next`.
 
+### Concepts
 - Dynamic Memory Allocation
-- Pointers
-- Forward and Backward Traversal
-- Node Insertion
-- Node Deletion
-- Searching
-- Reversing Linked Lists
-- Fast & Slow Pointer Technique
-- Time & Space Complexity
+- Node Initialization
 
-## ⏱ Complexity Summary
+---
 
-| Operation | Time |
-|-----------|------|
-|Insert Head|O(1)|
-|Insert End|O(n)|
-|Insert Position|O(n)|
-|Delete Head|O(1)|
-|Delete End|O(n)|
-|Delete Position|O(n)|
-|Search|O(n)|
-|Reverse|O(n)|
-|Find Middle|O(n)|
-|Detect Cycle|O(n)|
+## 2. Insert at Head
+File: `02_insert_head.cpp`
 
-## ▶️ Compile
+Time Complexity: **O(1)**
+
+---
+
+## 3. Insert at End
+File: `03_insert_end.cpp`
+
+Time Complexity: **O(n)**
+
+---
+
+## 4. Insert at Position
+File: `04_insert_position.cpp`
+
+Time Complexity: **O(n)**
+
+---
+
+## 5. Insert After Value
+File: `05_insert_after_value.cpp`
+
+Time Complexity: **O(n)**
+
+---
+
+## 6. Delete Head
+
+Time Complexity: **O(1)**
+
+---
+
+## 7. Delete End
+
+Time Complexity: **O(n)**
+
+---
+
+## 8. Delete Position
+
+Time Complexity: **O(n)**
+
+---
+
+## 9. Delete by Value
+
+Time Complexity: **O(n)**
+
+---
+
+## 10. Reverse DLL
+
+Time Complexity: **O(n)**
+
+---
+
+## 11. Find Middle
+
+Uses Slow & Fast pointers.
+
+Time Complexity: **O(n)**
+
+---
+
+## 12. Detect Cycle
+
+Uses Floyd's Algorithm.
+
+Time Complexity: **O(n)**
+
+# How to Compile
 
 ```bash
 g++ filename.cpp -o output
 ./output
 ```
 
-Windows:
+Windows
 
 ```bash
-g++ filename.cpp -o output.exe
 output.exe
 ```
 
-## 🎯 Learning Outcomes
+# Time Complexity
 
-After completing these programs you will understand:
-- Structure of a doubly linked list
+|Operation|Time|
+|---|---|
+|Create|O(1)|
+|Insert Head|O(1)|
+|Insert End|O(n)|
+|Insert Position|O(n)|
+|Insert After Value|O(n)|
+|Delete Head|O(1)|
+|Delete End|O(n)|
+|Delete Position|O(n)|
+|Delete Value|O(n)|
+|Reverse|O(n)|
+|Find Middle|O(n)|
+|Detect Cycle|O(n)|
+
+# Space Complexity
+
+All operations use **O(1)** auxiliary space.
+
+# Applications
+
+- Browser history
+- Undo/Redo
+- Music playlist
+- Navigation systems
+- LRU Cache
+
+# Learning Objectives
+
 - Pointer manipulation
-- prev and next links
+- Bidirectional traversal
 - CRUD operations
-- Common interview questions
+- Memory management
+- Interview preparation
 
-## 👨‍💻 Author
+# Prerequisites
+
+- C++
+- Pointers
+- Structures
+- Dynamic Memory
+
+# Future Improvements
+
+- Circular Doubly Linked List
+- Merge Lists
+- Sort DLL
+- Remove Duplicates
+- Rotate DLL
+
+# Contributing
+
+Fork, improve, and submit a Pull Request.
+
+# Author
 
 **Muhammad Javed**
 
 GitHub: https://github.com/Muhammad-Javed2005
 
+# License
+
+MIT License.
+
 ---
-If this repository helped you, consider giving it a ⭐ on GitHub.
+
+## Happy Coding 🚀
