@@ -245,4 +245,4 @@ MIT License.
 
 ---
 
-## Happy Coding 🚀
+## Happy Coding 
