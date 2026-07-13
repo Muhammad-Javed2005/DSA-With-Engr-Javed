@@ -8,7 +8,7 @@ Each operation is implemented in a separate C++ source file with clean, beginner
 
 ---
 
-# 📖 Table of Contents
+#  Table of Contents
 
 - Introduction
 - Features
