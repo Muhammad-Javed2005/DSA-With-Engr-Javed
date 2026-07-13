@@ -428,13 +428,13 @@ If you'd like to improve this repository:
 
 ---
 
-# ⭐ Support
+#  Support
 
 If this repository helped you learn Linked Lists, consider giving it a **⭐ Star** on GitHub.
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Engr. Muhammad Javed**
 
@@ -445,7 +445,7 @@ If this repository helped you learn Linked Lists, consider giving it a **⭐ Sta
 
 ---
 
-## 📜 License
+##  License
 
 This project is created for educational and learning purposes.
 
