@@ -363,7 +363,7 @@ reverse.exe
 
 ---
 
-# 🎯 Learning Outcomes
+#  Learning Outcomes
 
 After completing this repository, you will be able to:
 
@@ -380,7 +380,7 @@ After completing this repository, you will be able to:
 
 ---
 
-# 🌍 Real World Applications
+#  Real World Applications
 
 Linked Lists are used in:
 
