@@ -293,7 +293,7 @@ Detects whether a linked list contains a cycle using Floyd's Cycle Detection Alg
 
 ---
 
-# ⏱ Time Complexity
+#  Time Complexity
 
 | Operation | Time Complexity |
 |-----------|----------------|
