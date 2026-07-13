@@ -79,7 +79,7 @@ Singly Linked List/
 
 ---
 
-# 📚 Operations Included
+#  Operations Included
 
 ## 1️⃣ Create Node
 
