@@ -38,7 +38,7 @@ Unlike arrays, linked lists do not require contiguous memory allocation, making 
 This repository is designed for:
 
 -  University students
-- 💼 Coding interview preparation
+-  Coding interview preparation
 - 📚 DSA practice
 - 🚀 Beginners learning Linked Lists
 
