@@ -44,7 +44,7 @@ This repository is designed for:
 
 ---
 
-# ✨ Features
+#  Features
 
 - Beginner Friendly
 - Clean C++ Code
