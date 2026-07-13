@@ -39,7 +39,7 @@ This repository is designed for:
 
 -  University students
 -  Coding interview preparation
-- 📚 DSA practice
+-  DSA practice
 - 🚀 Beginners learning Linked Lists
 
 ---
