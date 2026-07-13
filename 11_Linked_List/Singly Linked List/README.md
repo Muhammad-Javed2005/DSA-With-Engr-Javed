@@ -1,4 +1,4 @@
-# 📚 Data Structures & Algorithms in C++
+#  Data Structures & Algorithms in C++
 
 # 🔗 Singly Linked List
 
