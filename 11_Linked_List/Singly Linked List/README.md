@@ -312,7 +312,7 @@ Detects whether a linked list contains a cycle using Floyd's Cycle Detection Alg
 
 ---
 
-# 💾 Space Complexity
+#  Space Complexity
 
 | Operation | Space |
 |-----------|-------|
