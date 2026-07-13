@@ -56,7 +56,7 @@ This repository is designed for:
 
 ---
 
-# 📂 Folder Structure
+#  Folder Structure
 
 ```
 Singly Linked List/
