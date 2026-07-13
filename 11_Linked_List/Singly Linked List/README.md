@@ -1,6 +1,6 @@
 #  Data Structures & Algorithms in C++
 
-# 🔗 Singly Linked List
+#  Singly Linked List
 
 A complete collection of **Singly Linked List** programs written in **C++**. This repository contains the most commonly used linked list operations that are taught in **Data Structures & Algorithms (DSA)** courses and frequently asked in coding interviews.
 
