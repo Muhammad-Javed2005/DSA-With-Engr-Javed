@@ -279,7 +279,7 @@ Detects whether a linked list contains a cycle using Floyd's Cycle Detection Alg
 
 ---
 
-# 🧠 Algorithms Covered
+#  Algorithms Covered
 
 - Dynamic Memory Allocation
 - Pointer Manipulation
