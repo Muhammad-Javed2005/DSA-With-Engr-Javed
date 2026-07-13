@@ -40,7 +40,7 @@ This repository is designed for:
 -  University students
 -  Coding interview preparation
 -  DSA practice
-- 🚀 Beginners learning Linked Lists
+-  Beginners learning Linked Lists
 
 ---
 
