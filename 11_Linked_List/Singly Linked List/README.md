@@ -26,7 +26,7 @@ Each operation is implemented in a separate C++ source file with clean, beginner
 
 ---
 
-# 📌 Introduction
+#  Introduction
 
 A **Singly Linked List** is a dynamic linear data structure where each node contains two parts:
 
