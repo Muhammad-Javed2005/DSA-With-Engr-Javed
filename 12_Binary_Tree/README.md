@@ -28,7 +28,7 @@ Each concept is implemented in a **separate C++ file** with clean, simple, and b
 
 ---
 
-# 📖 Project Overview
+#  Project Overview
 
 A **Binary Tree** is a hierarchical data structure where each node has at most **two children**, known as the **left child** and **right child**.
 
