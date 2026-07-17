@@ -51,7 +51,7 @@ Every program is separated into an individual file so beginners can understand e
 
 ---
 
-# ✨ Features
+#  Features
 
 ✔ Clean and Easy-to-Understand Code
 
