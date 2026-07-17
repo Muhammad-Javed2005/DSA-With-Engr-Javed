@@ -73,7 +73,7 @@ Every program is separated into an individual file so beginners can understand e
 
 ---
 
-# 🌲 Binary Tree Topics Covered
+#  Binary Tree Topics Covered
 
 This repository currently contains implementations of:
 
