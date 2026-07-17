@@ -93,7 +93,7 @@ This repository currently contains implementations of:
 
 ---
 
-# 📁 Repository Structure
+#  Repository Structure
 
 ```
 Binary Tree/
@@ -117,7 +117,7 @@ Binary Tree/
 
 ---
 
-# 📄 Program Descriptions
+#  Program Descriptions
 
 ## 01. Create Node
 
