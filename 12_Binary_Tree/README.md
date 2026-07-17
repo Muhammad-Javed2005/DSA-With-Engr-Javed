@@ -455,7 +455,7 @@ Some additional Binary Tree algorithms that can be added in the future:
 
 ---
 
-# 🤝 Contributions
+#  Contributions
 
 Contributions, improvements, and suggestions are always welcome.
 
@@ -468,7 +468,7 @@ If you would like to improve this repository:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Engr. Muhammad Javed**
 
@@ -497,7 +497,7 @@ Your support motivates me to create more high-quality educational repositories.
 
 ---
 
-# 📜 License
+#  License
 
 This project is released under the **MIT License**.
 
