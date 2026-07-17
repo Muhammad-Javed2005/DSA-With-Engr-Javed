@@ -10,7 +10,7 @@ Each concept is implemented in a **separate C++ file** with clean, simple, and b
 
 ---
 
-# 📚 Table of Contents
+#  Table of Contents
 
 - Project Overview
 - Features
