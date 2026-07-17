@@ -418,7 +418,7 @@ Repeat for any source file.
 
 ---
 
-# 🎓 Who Can Use This Repository?
+#  Who Can Use This Repository?
 
 This repository is useful for:
 
@@ -431,7 +431,7 @@ This repository is useful for:
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 Some additional Binary Tree algorithms that can be added in the future:
 
