@@ -344,7 +344,7 @@ O(log n)
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 - C++
 - Object-Oriented Programming
@@ -355,7 +355,7 @@ O(log n)
 
 ---
 
-# 🎯 Learning Outcomes
+#  Learning Outcomes
 
 After completing this repository, you will understand:
 
