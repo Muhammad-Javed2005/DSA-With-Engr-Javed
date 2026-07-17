@@ -293,7 +293,7 @@ Mirror:
 
 ---
 
-# ⏱ Time Complexity
+#  Time Complexity
 
 | Operation | Time Complexity |
 |------------|----------------|
