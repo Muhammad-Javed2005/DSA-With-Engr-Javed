@@ -1,4 +1,4 @@
-# 🌳 Data Structures & Algorithms in C++
+#  Data Structures & Algorithms in C++
 
 # Binary Tree
 
