@@ -22,7 +22,7 @@ The programs are intended for:
 
 ---
 
-# 🎯 Learning Objectives
+#  Learning Objectives
 
 After completing this folder, you will be able to:
 
