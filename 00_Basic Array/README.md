@@ -8,7 +8,7 @@ Arrays are one of the most fundamental data structures in computer science and s
 
 ---
 
-# 📖 Overview
+#  Overview
 
 This folder covers the most important array operations and beginner-to-intermediate level array problems. It includes implementations of searching, traversal, reversing arrays, finding minimum and maximum values, calculating sums and products, passing arrays by reference, subarrays, Kadane's Algorithm, and other frequently asked coding interview questions.
 
