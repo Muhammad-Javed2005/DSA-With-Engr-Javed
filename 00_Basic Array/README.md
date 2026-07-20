@@ -63,7 +63,7 @@ This folder includes the following array concepts:
 
 ---
 
-# 📂 Folder Structure
+#  Folder Structure
 
 ```text
 BASIC ARRAY/
