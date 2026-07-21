@@ -220,7 +220,7 @@ No advanced DSA knowledge is required.
 
 ---
 
-# 🎓 Learning Outcomes
+#  Learning Outcomes
 
 After completing this folder, you will have a solid understanding of:
 
