@@ -87,7 +87,7 @@ BASIC ARRAY/
 
 ---
 
-# 💻 Programs Included
+#  Programs Included
 
 | File Name | Description |
 |------------|-------------|
