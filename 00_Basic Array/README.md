@@ -155,7 +155,7 @@ An **Array** is a linear data structure that stores multiple elements of the sam
 
 ---
 
-# 💾 Space Complexity
+#  Space Complexity
 
 | Operation | Space Complexity |
 |------------|------------------|
