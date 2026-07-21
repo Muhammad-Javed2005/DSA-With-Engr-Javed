@@ -40,7 +40,7 @@ After completing this folder, you will be able to:
 
 ---
 
-# 📚 Topics Covered
+#  Topics Covered
 
 This folder includes the following array concepts:
 
