@@ -108,7 +108,7 @@ BASIC ARRAY/
 
 ---
 
-# 🧠 Theory & Concepts
+#  Theory & Concepts
 
 ## What is an Array?
 
