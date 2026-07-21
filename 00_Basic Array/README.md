@@ -138,7 +138,7 @@ An **Array** is a linear data structure that stores multiple elements of the sam
 
 ---
 
-# ⚡ Time Complexity
+#  Time Complexity
 
 | Operation | Complexity |
 |------------|------------|
