@@ -169,7 +169,7 @@ An **Array** is a linear data structure that stores multiple elements of the sam
 
 ---
 
-# 🚀 How to Run
+#  How to Run
 
 ### Clone the Repository
 
