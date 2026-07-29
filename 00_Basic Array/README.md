@@ -266,7 +266,7 @@ You can contribute by:
 
 #  Author
 
-**Muhammad Javed**
+**Engr.Muhammad Javed**
 
 Software Engineering Student
 
