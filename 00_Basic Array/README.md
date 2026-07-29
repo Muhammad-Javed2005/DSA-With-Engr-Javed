@@ -250,7 +250,7 @@ After completing this folder, you will have a solid understanding of:
 
 ---
 
-# 🤝 Contributing
+#  Contributing
 
 Contributions are always welcome.
 
