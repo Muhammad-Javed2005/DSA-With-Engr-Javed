@@ -290,7 +290,7 @@ You are welcome to use the code for:
 
 ---
 
-# ⭐ Support the Repository
+#  Support the Repository
 
 If you found this repository helpful:
 
