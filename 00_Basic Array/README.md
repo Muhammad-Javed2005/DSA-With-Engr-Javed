@@ -237,7 +237,7 @@ After completing this folder, you will have a solid understanding of:
 
 ---
 
-# ⭐ Best Practices
+#  Best Practices
 
 - Use meaningful variable names.
 - Keep functions modular.
