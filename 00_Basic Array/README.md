@@ -205,7 +205,7 @@ Repeat the same process for any `.cpp` file in this folder.
 
 ---
 
-# 📌 Prerequisites
+#  Prerequisites
 
 Before studying this folder, you should know:
 
