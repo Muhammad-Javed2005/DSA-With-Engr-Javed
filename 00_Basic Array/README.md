@@ -277,7 +277,7 @@ https://github.com/Muhammad-Javed2005
 
 ---
 
-# 📜 License
+#  License
 
 This repository is created for **educational and learning purposes**.
 
