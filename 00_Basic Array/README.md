@@ -264,7 +264,7 @@ You can contribute by:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Muhammad Javed**
 
